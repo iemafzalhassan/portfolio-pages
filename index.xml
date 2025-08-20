@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hello, I'm Afzal Hassan 👋 on iemafzalhassan</title><link>https://portfolio.iemafzalhassan.in/</link><description>Recent content in Hello, I'm Afzal Hassan 👋 on iemafzalhassan</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2025 Afzal Hassan</copyright><lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://portfolio.iemafzalhassan.in/index.xml" rel="self" type="application/rss+xml"/><item><title>Retail Store Sample App - GitOps with EKS Auto Mode</title><link>https://portfolio.iemafzalhassan.in/projects/reatilshop-gitops/</link><pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate><guid>https://portfolio.iemafzalhassan.in/projects/reatilshop-gitops/</guid><description>&lt;h2 class="relative group">🏪 Retail Store Sample App - GitOps with EKS Auto Mode
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hello, I'm Afzal Hassan 👋 on iemafzalhassan</title><link>https://portfolio.iemafzalhassan.in/</link><description>Recent content in Hello, I'm Afzal Hassan 👋 on iemafzalhassan</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2025 Afzal Hassan</copyright><lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://portfolio.iemafzalhassan.in/index.xml" rel="self" type="application/rss+xml"/><item><title>Deployment Test - Token Fix</title><link>https://portfolio.iemafzalhassan.in/deployment-test/</link><pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate><guid>https://portfolio.iemafzalhassan.in/deployment-test/</guid><description>&lt;h1 class="relative group">Deployment Test - Token Fix
+&lt;div id="deployment-test---token-fix" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#deployment-test---token-fix" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>This page is testing the deployment after fixing the GitHub token configuration.&lt;/p>
+&lt;h2 class="relative group">What Was Fixed
+&lt;div id="what-was-fixed" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#what-was-fixed" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>Token Parameter&lt;/strong>: Changed from &lt;code>github_token&lt;/code> to &lt;code>personal_token&lt;/code>&lt;/li>
+&lt;li>&lt;strong>External Repository&lt;/strong>: Using &lt;code>DEPLOY_TOKEN&lt;/code> for cross-repository deployment&lt;/li>
+&lt;li>&lt;strong>Hugo Version&lt;/strong>: Updated to 0.148.2 for compatibility&lt;/li>
+&lt;/ol>
+&lt;h2 class="relative group">Expected Results
+&lt;div id="expected-results" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#expected-results" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;ul>
+&lt;li>✅ GitHub Actions should complete successfully&lt;/li>
+&lt;li>✅ Site should deploy to portfolio-pages repository&lt;/li>
+&lt;li>✅ Slack notifications should be sent&lt;/li>
+&lt;li>✅ Custom domain should work&lt;/li>
+&lt;/ul>
+&lt;h2 class="relative group">Current Status
+&lt;div id="current-status" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#current-status" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>If you can see this page, the automated deployment is working correctly! 🎉&lt;/p></description></item><item><title>Retail Store Sample App - GitOps with EKS Auto Mode</title><link>https://portfolio.iemafzalhassan.in/projects/reatilshop-gitops/</link><pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate><guid>https://portfolio.iemafzalhassan.in/projects/reatilshop-gitops/</guid><description>&lt;h2 class="relative group">🏪 Retail Store Sample App - GitOps with EKS Auto Mode
 &lt;div id="-retail-store-sample-app---gitops-with-eks-auto-mode" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
