@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docker on iemafzalhassan</title><link>https://iemafzalhassan.me/portfolio-pages/tags/docker/</link><description>Recent content in Docker on iemafzalhassan</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2025 Afzal Hassan</copyright><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iemafzalhassan.me/portfolio-pages/tags/docker/index.xml" rel="self" type="application/rss+xml"/><item><title>Running Llama 3.2 Locally with OpenWebUI and Docker</title><link>https://iemafzalhassan.me/portfolio-pages/blogs/ollama/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><guid>https://iemafzalhassan.me/portfolio-pages/blogs/ollama/</guid><description>&lt;p>If you&amp;rsquo;ve ever wanted to run a powerful AI language model like Llama 3.2 on your own computer—without worrying about sharing your data with companies or relying on cloud services—this guide will walk you through the entire process. We&amp;rsquo;ll cover how to download, install, and set up &lt;strong>OpenWebUI&lt;/strong> on your local machine using &lt;strong>Docker&lt;/strong> and integrate it with a locally installed &lt;strong>Llama 3.2 model&lt;/strong>.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docker on iemafzalhassan</title><link>https://iemafzalhassan.me/portfolio-pages/tags/docker/</link><description>Recent content in Docker on iemafzalhassan</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2025 Afzal Hassan</copyright><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iemafzalhassan.me/portfolio-pages/tags/docker/index.xml" rel="self" type="application/rss+xml"/><item><title>Full Stack Real-Time Chat Application</title><link>https://iemafzalhassan.me/portfolio-pages/projects/chat-app/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><guid>https://iemafzalhassan.me/portfolio-pages/projects/chat-app/</guid><description>&lt;h2 class="relative group">💬 Full Stack Real-Time Chat Application
+&lt;div id="-full-stack-real-time-chat-application" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-full-stack-real-time-chat-application" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A modern, scalable real-time chat application built with cutting-edge technologies. This project demonstrates full-stack development capabilities with real-time communication, user authentication, and containerized deployment.&lt;/p>
+&lt;h3 class="relative group">🎯 Project Overview
+&lt;div id="-project-overview" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-project-overview" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>This real-time chat application provides instant messaging capabilities with a focus on scalability, security, and user experience. Built with modern web technologies, it offers a seamless communication platform that can handle multiple concurrent users with real-time message delivery.&lt;/p></description></item><item><title>Modern E-commerce Platform</title><link>https://iemafzalhassan.me/portfolio-pages/projects/online-shop/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><guid>https://iemafzalhassan.me/portfolio-pages/projects/online-shop/</guid><description>&lt;h2 class="relative group">🛒 Modern E-commerce Platform
+&lt;div id="-modern-e-commerce-platform" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-modern-e-commerce-platform" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A sophisticated, responsive e-commerce platform built with React, featuring advanced product management, modern UI/UX design, and comprehensive DevOps automation. This project demonstrates modern web development practices with a focus on user experience and deployment efficiency.&lt;/p>
+&lt;h3 class="relative group">🎯 Project Overview
+&lt;div id="-project-overview" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-project-overview" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>This online shopping portal provides a complete e-commerce solution with modern design principles, responsive layout, and advanced features. The project showcases DevOps automation, containerization, and cloud deployment practices while delivering an exceptional user experience.&lt;/p></description></item><item><title>Running Llama 3.2 Locally with OpenWebUI and Docker</title><link>https://iemafzalhassan.me/portfolio-pages/blogs/ollama/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><guid>https://iemafzalhassan.me/portfolio-pages/blogs/ollama/</guid><description>&lt;p>If you&amp;rsquo;ve ever wanted to run a powerful AI language model like Llama 3.2 on your own computer—without worrying about sharing your data with companies or relying on cloud services—this guide will walk you through the entire process. We&amp;rsquo;ll cover how to download, install, and set up &lt;strong>OpenWebUI&lt;/strong> on your local machine using &lt;strong>Docker&lt;/strong> and integrate it with a locally installed &lt;strong>Llama 3.2 model&lt;/strong>.&lt;/p>
 &lt;hr>
 &lt;h3 class="relative group">What You Will Need:
 &lt;div id="what-you-will-need" class="anchor">&lt;/div>

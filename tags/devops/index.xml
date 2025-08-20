@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevOps on iemafzalhassan</title><link>https://iemafzalhassan.me/portfolio-pages/tags/devops/</link><description>Recent content in DevOps on iemafzalhassan</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2025 Afzal Hassan</copyright><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iemafzalhassan.me/portfolio-pages/tags/devops/index.xml" rel="self" type="application/rss+xml"/><item><title>Retail Store Sample App - GitOps with EKS Auto Mode</title><link>https://iemafzalhassan.me/portfolio-pages/projects/reatilshop-gitops/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><guid>https://iemafzalhassan.me/portfolio-pages/projects/reatilshop-gitops/</guid><description>&lt;h2 class="relative group">🏪 Retail Store Sample App - GitOps with EKS Auto Mode
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevOps on iemafzalhassan</title><link>https://iemafzalhassan.me/portfolio-pages/tags/devops/</link><description>Recent content in DevOps on iemafzalhassan</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2025 Afzal Hassan</copyright><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iemafzalhassan.me/portfolio-pages/tags/devops/index.xml" rel="self" type="application/rss+xml"/><item><title>Modern E-commerce Platform</title><link>https://iemafzalhassan.me/portfolio-pages/projects/online-shop/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><guid>https://iemafzalhassan.me/portfolio-pages/projects/online-shop/</guid><description>&lt;h2 class="relative group">🛒 Modern E-commerce Platform
+&lt;div id="-modern-e-commerce-platform" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-modern-e-commerce-platform" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A sophisticated, responsive e-commerce platform built with React, featuring advanced product management, modern UI/UX design, and comprehensive DevOps automation. This project demonstrates modern web development practices with a focus on user experience and deployment efficiency.&lt;/p>
+&lt;h3 class="relative group">🎯 Project Overview
+&lt;div id="-project-overview" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-project-overview" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>This online shopping portal provides a complete e-commerce solution with modern design principles, responsive layout, and advanced features. The project showcases DevOps automation, containerization, and cloud deployment practices while delivering an exceptional user experience.&lt;/p></description></item><item><title>Retail Store Sample App - GitOps with EKS Auto Mode</title><link>https://iemafzalhassan.me/portfolio-pages/projects/reatilshop-gitops/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><guid>https://iemafzalhassan.me/portfolio-pages/projects/reatilshop-gitops/</guid><description>&lt;h2 class="relative group">🏪 Retail Store Sample App - GitOps with EKS Auto Mode
 &lt;div id="-retail-store-sample-app---gitops-with-eks-auto-mode" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
