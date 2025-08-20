@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>GitOps on iemafzalhassan</title><link>https://iemafzalhassan.me/portfolio-pages/tags/gitops/</link><description>Recent content in GitOps on iemafzalhassan</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2025 Afzal Hassan</copyright><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://iemafzalhassan.me/portfolio-pages/tags/gitops/index.xml" rel="self" type="application/rss+xml"/><item><title>Retail Store Sample App - GitOps with EKS Auto Mode</title><link>https://iemafzalhassan.me/portfolio-pages/projects/reatilshop-gitops/</link><pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate><guid>https://iemafzalhassan.me/portfolio-pages/projects/reatilshop-gitops/</guid><description>&lt;h2 class="relative group">🏪 Retail Store Sample App - GitOps with EKS Auto Mode
+&lt;div id="-retail-store-sample-app---gitops-with-eks-auto-mode" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-retail-store-sample-app---gitops-with-eks-auto-mode" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>A comprehensive sample application demonstrating modern DevOps practices and GitOps principles on AWS EKS. This project showcases a complete retail store application with microservices architecture, automated deployment pipelines, and infrastructure as code.&lt;/p>
+&lt;h3 class="relative group">🎯 Project Overview
+&lt;div id="-project-overview" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-project-overview" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>This retail store application is designed to illustrate various concepts related to containers on AWS, presenting a complete e-commerce solution including product catalog, shopping cart, and checkout functionality. The project demonstrates modern DevOps practices including GitOps, Infrastructure as Code, and automated CI/CD pipelines.&lt;/p></description></item></channel></rss>
