@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Welcome to my blog 👋 on iemafzalhassan</title><link>https://portfolio.iemafzalhassan.in/blogs/</link><description>Recent content in Welcome to my blog 👋 on iemafzalhassan</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2025 Afzal Hassan</copyright><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://portfolio.iemafzalhassan.in/blogs/index.xml" rel="self" type="application/rss+xml"/><item><title>Git and GitHub Mastery: A Complete Guide to Version Control</title><link>https://portfolio.iemafzalhassan.in/blogs/git-github-mastery/</link><pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate><guid>https://portfolio.iemafzalhassan.in/blogs/git-github-mastery/</guid><description>&lt;p>In today&amp;rsquo;s fast-paced software development landscape, &lt;strong>version control&lt;/strong> is essential for collaboration and project management. &lt;strong>Git&lt;/strong> is the most widely adopted version control system, and platforms like &lt;strong>GitHub&lt;/strong> and &lt;strong>GitLab&lt;/strong> amplify its capabilities, making it easier for teams to collaborate effectively. This comprehensive guide will walk you through everything you need to know about Git, including its stages, branching, and real-world applications in both &lt;strong>development&lt;/strong> and &lt;strong>DevOps&lt;/strong>.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DevOps &amp; Cloud Engineering Blog on Afzal Hassan - Senior DevOps Engineer</title><link>https://portfolio.iemafzalhassan.in/blogs/</link><description>Recent content in DevOps &amp; Cloud Engineering Blog on Afzal Hassan - Senior DevOps Engineer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© 2025 Afzal Hassan</copyright><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://portfolio.iemafzalhassan.in/blogs/index.xml" rel="self" type="application/rss+xml"/><item><title>Git and GitHub Mastery: A Complete Guide to Version Control</title><link>https://portfolio.iemafzalhassan.in/blogs/git-github-mastery/</link><pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate><guid>https://portfolio.iemafzalhassan.in/blogs/git-github-mastery/</guid><description>&lt;p>In today&amp;rsquo;s fast-paced software development landscape, &lt;strong>version control&lt;/strong> is essential for collaboration and project management. &lt;strong>Git&lt;/strong> is the most widely adopted version control system, and platforms like &lt;strong>GitHub&lt;/strong> and &lt;strong>GitLab&lt;/strong> amplify its capabilities, making it easier for teams to collaborate effectively. This comprehensive guide will walk you through everything you need to know about Git, including its stages, branching, and real-world applications in both &lt;strong>development&lt;/strong> and &lt;strong>DevOps&lt;/strong>.&lt;/p>
 &lt;h2 class="relative group">What is Git? Understanding the Basics of Version Control
 &lt;div id="what-is-git-understanding-the-basics-of-version-control" class="anchor">&lt;/div>
 &lt;span
@@ -29,26 +29,4 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#step-1-download-and-install-ollama-llama-model-assistant" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h3>
-&lt;p>First, we need to install &lt;strong>Ollama&lt;/strong>, a tool that allows you to manage and run local AI models such as &lt;strong>Llama 3.2&lt;/strong>.&lt;/p></description></item><item><title/><link>https://portfolio.iemafzalhassan.in/blogs/docker-namespace/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.iemafzalhassan.in/blogs/docker-namespace/</guid><description>&lt;p>What do i excatly understand by term namespace:&lt;/p>
-&lt;ul>
-&lt;li>it is something which is used to isolate our belongings.&lt;/li>
-&lt;li>it is a linux tools that we use&lt;/li>
-&lt;/ul>
-&lt;p>ddfagdfsgfg
-dfg
-dfg
-dfgbfs
-gbdf
-gb
-df
-dfgv
-bvdf
-bv
-df
-bvdf
-b
-dfbg
-b
-db
-dfs
-b&lt;/p></description></item></channel></rss>
+&lt;p>First, we need to install &lt;strong>Ollama&lt;/strong>, a tool that allows you to manage and run local AI models such as &lt;strong>Llama 3.2&lt;/strong>.&lt;/p></description></item></channel></rss>
