@@ -89,4 +89,29 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-project-overview" aria-label="Anchor">#&lt;/a>
 &lt;/span>
 &lt;/h3>
-&lt;p>This real-time chat application provides instant messaging capabilities with a focus on scalability, security, and user experience. Built with modern web technologies, it offers a seamless communication platform that can handle multiple concurrent users with real-time message delivery.&lt;/p></description></item></channel></rss>
+&lt;p>This real-time chat application provides instant messaging capabilities with a focus on scalability, security, and user experience. Built with modern web technologies, it offers a seamless communication platform that can handle multiple concurrent users with real-time message delivery.&lt;/p></description></item><item><title/><link>https://portfolio.iemafzalhassan.in/blogs/guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://portfolio.iemafzalhassan.in/blogs/guide/</guid><description>&lt;h1 class="relative group">🚀 Chattingo - Mini Hackathon Challenge
+&lt;div id="-chattingo---mini-hackathon-challenge" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-chattingo---mini-hackathon-challenge" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h1>
+&lt;p>A full-stack real-time chat application built with React, Spring Boot, and WebSocket technology. &lt;strong>Your mission&lt;/strong>: Containerize this application using Docker and deploy it to Hostinger VPS using Jenkins CI/CD pipeline.&lt;/p>
+&lt;h2 class="relative group">🚨 &lt;strong>IMPORTANT: Registration Required&lt;/strong>
+&lt;div id="-important-registration-required" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-important-registration-required" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;h3 class="relative group">&lt;strong>📝 &lt;a
+href="https://forms.gle/NgNJNg8yQvPaA1Vz9"
+target="_blank"
+>REGISTER NOW&lt;/a>&lt;/strong>
+&lt;div id="heading" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#heading" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h3>
+&lt;p>&lt;strong>Deadline: September 5, 2025&lt;/strong>&lt;/p></description></item></channel></rss>
